@@ -1,4 +1,4 @@
-# Talal AlOhali - Antigravity Portfolio
+# Talal AlOhali Web
 
 This is a personal portfolio website built with HTML, CSS, and JavaScript, featuring a 3D "Antigravity" particle effect using Three.js.
 
