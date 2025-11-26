@@ -3,7 +3,7 @@
 A modern, interactive personal portfolio website showcasing my journey in Computer Science, AI, and Software Development. Built with a focus on aesthetics and performance, featuring a custom 3D particle background.
 
 ## 🚀 Live Demo
-[[Insert your Vercel/GitHub Pages link here](https://talalalohali1.github.io/)]
+(https://talalalohali1.github.io/)
 
 ## 🛠️ Technologies
 - **Frontend:** HTML5, CSS3 (Glassmorphism UI), JavaScript (ES6+)
